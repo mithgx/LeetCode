@@ -10,11 +10,13 @@ Keeping track of my Leetcode questions, that I solve.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mithgx/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mithgx/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/mithgx/LeetCode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mithgx/LeetCode/tree/master/0011-container-with-most-water) |
 | [0200-number-of-islands](https://github.com/mithgx/LeetCode/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
@@ -36,4 +38,8 @@ Keeping track of my Leetcode questions, that I solve.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mithgx/LeetCode/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mithgx/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
