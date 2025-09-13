@@ -13,10 +13,12 @@ Keeping track of my Leetcode questions, that I solve.
 | [0011-container-with-most-water](https://github.com/mithgx/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mithgx/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/mithgx/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/mithgx/LeetCode/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mithgx/LeetCode/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/mithgx/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/mithgx/LeetCode/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
@@ -42,4 +44,8 @@ Keeping track of my Leetcode questions, that I solve.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mithgx/LeetCode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/mithgx/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
