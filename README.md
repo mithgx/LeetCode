@@ -18,6 +18,7 @@ Keeping track of my Leetcode questions, that I solve.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mithgx/LeetCode/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/mithgx/LeetCode/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/mithgx/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/mithgx/LeetCode/tree/master/0200-number-of-islands) |
 ## Depth-First Search
@@ -40,6 +41,7 @@ Keeping track of my Leetcode questions, that I solve.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mithgx/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/mithgx/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/mithgx/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
@@ -53,8 +55,13 @@ Keeping track of my Leetcode questions, that I solve.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mithgx/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/mithgx/LeetCode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mithgx/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/mithgx/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
