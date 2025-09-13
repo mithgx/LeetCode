@@ -11,6 +11,7 @@ Keeping track of my Leetcode questions, that I solve.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mithgx/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/mithgx/LeetCode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -31,4 +32,8 @@ Keeping track of my Leetcode questions, that I solve.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mithgx/LeetCode/tree/master/0200-number-of-islands) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mithgx/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
