@@ -12,12 +12,14 @@ Keeping track of my Leetcode questions, that I solve.
 | ------- |
 | [0011-container-with-most-water](https://github.com/mithgx/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mithgx/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/mithgx/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mithgx/LeetCode/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mithgx/LeetCode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mithgx/LeetCode/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/mithgx/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/mithgx/LeetCode/tree/master/0200-number-of-islands) |
@@ -64,4 +66,16 @@ Keeping track of my Leetcode questions, that I solve.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mithgx/LeetCode/tree/master/0049-group-anagrams) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
