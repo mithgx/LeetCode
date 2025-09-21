@@ -84,8 +84,13 @@ Keeping track of my Leetcode questions, that I solve.
 | ------- |
 | [0020-valid-parentheses](https://github.com/mithgx/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/mithgx/LeetCode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mithgx/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
