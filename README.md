@@ -46,6 +46,7 @@ Keeping track of my Leetcode questions, that I solve.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mithgx/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/mithgx/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mithgx/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/mithgx/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mithgx/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/mithgx/LeetCode/tree/master/0125-valid-palindrome) |
@@ -79,6 +80,7 @@ Keeping track of my Leetcode questions, that I solve.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mithgx/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mithgx/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
@@ -96,4 +98,8 @@ Keeping track of my Leetcode questions, that I solve.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mithgx/LeetCode/tree/master/0155-min-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mithgx/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
