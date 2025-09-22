@@ -20,6 +20,7 @@ Keeping track of my Leetcode questions, that I solve.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mithgx/LeetCode/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mithgx/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mithgx/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/mithgx/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -124,5 +125,6 @@ Keeping track of my Leetcode questions, that I solve.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mithgx/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/mithgx/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
