@@ -21,6 +21,7 @@ Keeping track of my Leetcode questions, that I solve.
 | [0011-container-with-most-water](https://github.com/mithgx/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mithgx/LeetCode/tree/master/0049-group-anagrams) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mithgx/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mithgx/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mithgx/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mithgx/LeetCode/tree/master/0189-rotate-array) |
@@ -93,6 +94,7 @@ Keeping track of my Leetcode questions, that I solve.
 | ------- |
 | [0020-valid-parentheses](https://github.com/mithgx/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mithgx/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mithgx/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mithgx/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/mithgx/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -102,6 +104,7 @@ Keeping track of my Leetcode questions, that I solve.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mithgx/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/mithgx/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mithgx/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/mithgx/LeetCode/tree/master/0883-car-fleet) |
