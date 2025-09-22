@@ -26,6 +26,7 @@ Keeping track of my Leetcode questions, that I solve.
 | [0189-rotate-array](https://github.com/mithgx/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/mithgx/LeetCode/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/mithgx/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/mithgx/LeetCode/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -93,11 +94,13 @@ Keeping track of my Leetcode questions, that I solve.
 | [0150-evaluate-reverse-polish-notation](https://github.com/mithgx/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mithgx/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/mithgx/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/mithgx/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/mithgx/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/mithgx/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
