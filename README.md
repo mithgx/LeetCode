@@ -25,6 +25,7 @@ Keeping track of my Leetcode questions, that I solve.
 | [0150-evaluate-reverse-polish-notation](https://github.com/mithgx/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mithgx/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/mithgx/LeetCode/tree/master/0200-number-of-islands) |
+| [0496-next-greater-element-i](https://github.com/mithgx/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Keeping track of my Leetcode questions, that I solve.
 | [0049-group-anagrams](https://github.com/mithgx/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mithgx/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/mithgx/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/mithgx/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,10 +92,12 @@ Keeping track of my Leetcode questions, that I solve.
 | [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mithgx/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mithgx/LeetCode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/mithgx/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/mithgx/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
