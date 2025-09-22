@@ -21,6 +21,7 @@ Keeping track of my Leetcode questions, that I solve.
 | [0011-container-with-most-water](https://github.com/mithgx/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mithgx/LeetCode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/mithgx/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mithgx/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mithgx/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mithgx/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -44,6 +45,7 @@ Keeping track of my Leetcode questions, that I solve.
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mithgx/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/mithgx/LeetCode/tree/master/0200-number-of-islands) |
 ## String
 |  |
@@ -116,4 +118,8 @@ Keeping track of my Leetcode questions, that I solve.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mithgx/LeetCode/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/mithgx/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
