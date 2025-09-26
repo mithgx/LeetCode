@@ -40,6 +40,7 @@ Keeping track of my Leetcode questions, that I solve.
 | [0695-max-area-of-island](https://github.com/mithgx/LeetCode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/mithgx/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/mithgx/LeetCode/tree/master/0883-car-fleet) |
+| [1036-rotting-oranges](https://github.com/mithgx/LeetCode/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Keeping track of my Leetcode questions, that I solve.
 | ------- |
 | [0200-number-of-islands](https://github.com/mithgx/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/mithgx/LeetCode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/mithgx/LeetCode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Keeping track of my Leetcode questions, that I solve.
 | [0074-search-a-2d-matrix](https://github.com/mithgx/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/mithgx/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/mithgx/LeetCode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/mithgx/LeetCode/tree/master/1036-rotting-oranges) |
 ## String
 |  |
 | ------- |
