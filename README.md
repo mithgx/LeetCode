@@ -126,6 +126,7 @@ Keeping track of my Leetcode questions, that I solve.
 | [0042-trapping-rain-water](https://github.com/mithgx/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/mithgx/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mithgx/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0836-race-car](https://github.com/mithgx/LeetCode/tree/master/0836-race-car) |
 ## Stack
 |  |
 | ------- |
