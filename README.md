@@ -48,6 +48,7 @@ Keeping track of my Leetcode questions, that I solve.
 | ------- |
 | [0130-surrounded-regions](https://github.com/mithgx/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mithgx/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/mithgx/LeetCode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mithgx/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/mithgx/LeetCode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
@@ -55,6 +56,7 @@ Keeping track of my Leetcode questions, that I solve.
 | ------- |
 | [0130-surrounded-regions](https://github.com/mithgx/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mithgx/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/mithgx/LeetCode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mithgx/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/mithgx/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/mithgx/LeetCode/tree/master/1036-rotting-oranges) |
@@ -161,4 +163,12 @@ Keeping track of my Leetcode questions, that I solve.
 | [0021-merge-two-sorted-lists](https://github.com/mithgx/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/mithgx/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mithgx/LeetCode/tree/master/0206-reverse-linked-list) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mithgx/LeetCode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/mithgx/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
